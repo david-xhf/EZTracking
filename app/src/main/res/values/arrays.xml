@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carriers">
+        <item>USPS</item>
+        <item>UPS</item>
+        <item>Fedex</item>
+        <item>DHL</item>
+        <item>TNT</item>
+        <item>AMZL</item>
+        <item>STOEx</item>
+        <item>YTOEx</item>
+        <item>ZTOEx</item>
+        <item>SF Express</item>
+    </string-array>
+</resources>
